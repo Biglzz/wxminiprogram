@@ -1,0 +1,24 @@
+/* pages/main.wxss */
+.logo{
+  width: auto;
+  height: 100rpx;
+  display: flex;
+  justify-content: center;
+}
+
+.swiper{
+  display: flex;
+  justify-content: center;
+}
+
+.navigator1{
+  background-color: #3352CC;
+  
+  color: aquamarine;
+  height: 150rpx;
+  width: 375rpx;
+  background-repeat: no-repeat;
+  background-position: 18% center;
+}
+
+.navigator1
